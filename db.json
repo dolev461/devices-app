@@ -1,7 +1,9 @@
 {
   "regions": [
-    "id": 0,
-    "name": "Region A"
-    "ip": "10.0.0.x"
+    {
+      "id": 0,
+      "name": "Region A"
+      "ip": "10.0.0.x"
+    }
    ]
 }
